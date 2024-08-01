@@ -1,13 +1,12 @@
 
-# Project Title
-Google-gemini based Chatbot application
+# Project Title Chatbot application
 
 ![Alt text](img.png)
 
 ## API Reference
 
 ```http
-Get your Gemini API key from below Link  
+Get your API key from below Link  
 ```
 
 | Parameter | Type     | Description                |
@@ -15,20 +14,10 @@ Get your Gemini API key from below Link
 | `api_key` | `string` | **Required** https://aistudio.google.com/app/apikey |
 
 
-## Authors
-
-- [@iamishikagupta](https://www.github.com/iamishikagupta)
-
-
-
-## 🚀 About Me
-Result-oriented professional, with nearly 2 years of experience as UX Designer, pursuing a dynamic role in Front-end Development within the IT industry.
-
-
 ## Installation
 ```bash
 open terminal
-➡️cd chat-gemini  
+➡️cd chatQuery  
 ➡️pip install requirements.txt 
 ➡️ streamlit run app.py
 ```
